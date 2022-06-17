@@ -33,4 +33,5 @@ It states that 80 percent of the effects come from 20 percent of the causes. A r
 <img src="./images/catagorical variables.png" width="600" height="300">
 
 <i>Important note: I have completed an important exercise on catagorical variables where I had to show bar chart, pie chart and peruto diagram after doing calculation. You can try it on. This exercise on this Ms Excel worksheet ( 2.3.Categorical-variables.Visualization-techniques-exercise.xlsx )</i>
+### Numerical variables- Using a frequency distribution table
 
