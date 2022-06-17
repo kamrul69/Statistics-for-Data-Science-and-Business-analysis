@@ -36,3 +36,8 @@ It states that 80 percent of the effects come from 20 percent of the causes. A r
 ### Numerical variables- Using a frequency distribution table
 To make frequency distribution table for numerical variable you can use intervals. Then you can make a table by using your data set. In my repository you can find an exercise file that is (2.4.Numerical-variables.Frequency-distribution-table-exercise) . So you can try it out. 
 <img src="./images/Numerical Variables.png" width="600" height="300">
+### Histogram -By using the frequency table
+In Excel, the histogram is a special type of chart. In the latest versions of Excel, you should only select your dataset and insert a type of chart, called Histogram. Alternatively, there is a special histogram tool in the Analysis Toolpak that Excel supports. Other software will only let you create a histogram, once you have created a frequency distribution table. This is also the skill that you should acquire. 
+###### The intervals in the excel histogram are called 'bins'. You can specify the number of bins or the width of the bins.
+<img src="./images/Histogram.jpg" width="600" height="300">
+
