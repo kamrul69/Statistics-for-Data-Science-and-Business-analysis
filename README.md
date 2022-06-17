@@ -34,4 +34,5 @@ It states that 80 percent of the effects come from 20 percent of the causes. A r
 
 <i>Important note: I have completed an important exercise on catagorical variables where I had to show bar chart, pie chart and peruto diagram after doing calculation. You can try it on. This exercise on this Ms Excel worksheet ( 2.3.Categorical-variables.Visualization-techniques-exercise.xlsx )</i>
 ### Numerical variables- Using a frequency distribution table
+To make frequency distribution table for numerical variable you can use intervals. Then you can make a table by using your data set. In my repository you can find an exercise file that is (2.4.Numerical-variables.Frequency-distribution-table-exercise) . So you can try it out. 
 
