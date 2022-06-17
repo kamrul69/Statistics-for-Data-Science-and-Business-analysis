@@ -38,6 +38,6 @@ To make frequency distribution table for numerical variable you can use interval
 <img src="./images/Numerical Variables.png" width="600" height="300">
 ### Histogram -By using the frequency table
 In Excel, the histogram is a special type of chart. In the latest versions of Excel, you should only select your dataset and insert a type of chart, called Histogram. Alternatively, there is a special histogram tool in the Analysis Toolpak that Excel supports. Other software will only let you create a histogram, once you have created a frequency distribution table. This is also the skill that you should acquire. 
-###### The intervals in the excel histogram are called 'bins'. You can specify the number of bins or the width of the bins.
+###### The intervals in the excel histogram are called 'bins'. You can specify the number of bins or the width of the bins. This exercise based on this file(2.5.The-Histogram-exercise.xlsx). Try it out.
 <img src="./images/Histogram.jpg" width="600" height="300">
 
