@@ -41,3 +41,4 @@ In Excel, the histogram is a special type of chart. In the latest versions of Ex
 ###### The intervals in the excel histogram are called 'bins'. You can specify the number of bins or the width of the bins. This exercise based on this file(2.5.The-Histogram-exercise.xlsx). Try it out.
 <img src="./images/Histogram.jpg" width="600" height="300">
 
+### Cross tables and scatter plots
