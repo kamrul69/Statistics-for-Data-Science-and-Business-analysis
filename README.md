@@ -42,7 +42,7 @@ In Excel, the histogram is a special type of chart. In the latest versions of Ex
 <img src="./images/Histogram.jpg" width="600" height="300">
 
 ### Cross tables and scatter plots
-we have a division between categorical and numerical variables. Let’s start with categorical variables. The most common way to represent them is using cross tables, or as some statisticians call them – contingency tables. To show the catagorical variables by graphically we have to use bar chart/ side-by-side bar chart. 
+We have a division between categorical and numerical variables. Let’s start with categorical variables. The most common way to represent them is using cross tables, or as some statisticians call them – contingency tables. To show the catagorical variables by graphically we have to use bar chart/ side-by-side bar chart. 
 On the other hand, to represent the numerical variables we can use scatter plot. Scatter plots usually represent lots and lots of observations. When interpreting a scatter plot, a statistician is not expected to look into single data points.
 
 ###### This exercise based on cross tables and scatter plots. Go to the file(2.6.Cross-table-and-scatter-plot-exercise.xlsx) and try it out.
